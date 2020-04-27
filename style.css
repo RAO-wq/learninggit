@@ -1,0 +1,342 @@
+.p1{
+     
+    background-color: blue;
+    font-size: medium;
+    text-align: center;
+    color: white;
+}
+
+input{
+    padding: 5px;
+    margin:0px 0px 15px 0px;
+    
+}
+.UK{
+    padding: 5px;
+    margin:15px 0px 10px 0px;
+}
+.UKDONOR{
+    padding: 5px;
+    margin:15px 0px 10px 90px;
+}
+.whatsapp{
+
+
+   
+    margin:0px 100px 0px 0px;
+}
+.p2{
+
+    background-color: whitesmoke;
+    text-align: left;
+    margin:0px 0px 0px 200px;
+    margin-left: 100px;
+   
+}
+.ho{
+    margin:0px 0px 0px 140px;
+    border: whitesmoke;
+    background-color: whitesmoke;
+}
+.services{
+    border: whitesmoke;
+    background-color: whitesmoke;
+}
+.abou{
+    border: whitesmoke;
+    background-color: whitesmoke;
+}
+.future{
+    border: whitesmoke;
+    background-color: whitesmoke;
+}
+.Med{
+    border: whitesmoke;
+    background-color: whitesmoke;
+}
+
+
+.marq{
+    background-color: blue;
+    color: white;
+    margin:0px 150px 0px 150px;
+    padding-top: 5px;
+    font-style: inherit;
+}
+#colour{
+    color: yellow;
+}
+#intro{
+    color: green;
+}
+#duction{
+    color: blue;
+}
+.introduction{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.sayl{
+text-align: center;
+
+}
+#lign{
+    color: chartreuse;
+  
+}
+.para{
+    text-align: center;
+    
+}
+.border{
+    text-align: center;
+    background-color: slateblue;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+#dastarkhwan{
+    margin:0px 120px 0px 120px;
+    
+     color: white;
+
+}
+#family{
+    margin:0px 160px 0px 0px;
+    color: white;
+    font-size: 50px;
+     
+}
+#seven{
+    margin:0px 200px 0px 0px;
+    color: white;
+    font-size: 50px;
+     
+}
+#four{
+    margin:0px 40px 0px 0px;
+    color: white;
+    font-size: 50px;
+     
+}
+#one{
+    margin:0px 0px 0px 70px;
+    color: white;
+    font-size: 50px;
+     
+}
+#medical{
+    margin:0px 130px 0px 0px;
+    color: white;
+     
+}
+
+
+.yel{
+    background-color: white;
+    width: 380px;
+    height: 200px;
+    margin:0px 0px 30px 170px;
+    display: inline-block;
+}
+
+
+
+.white{
+    background-color: white;
+    width: 380px;
+    height: 200px;
+    margin:0px 0px 30px 30px;
+    display: inline-block;
+}
+body{
+    background-color: whitesmoke;
+}
+.image{
+    position: absolute;
+    top: 1670px;
+    left: 240px;
+}
+.image2{
+    position: absolute;
+    top: 1690px;
+    left: 730px;
+}
+.image3{
+    position: absolute;
+    top: 1690px;
+    left: 1150px;
+}
+.image4{
+    position: absolute;
+    top: 1920px;
+    left: 300px;
+}
+.image5{
+    position: absolute;
+    top: 1920px;
+    left: 720px;
+}
+
+.image6{
+    position: absolute;
+    top: 1910px;
+    left: 1100px;
+}
+.mission{
+    color: blue;
+    font-size: 30px;
+    margin-left: 170px;
+}
+.box{ background-color: wheat;
+    width: 380px;
+    height: 70px;
+    margin:0px 0px 0px 240px;
+    display: inline-block;
+
+}
+.box1{ background-color: wheat;
+    width: 380px;
+    height: 70px;
+    margin:0px 0px 0px 20px;
+    display: inline-block;
+
+}
+.box2{ background-color: wheat;
+    width: 380px;
+    height: 70px;
+    margin:0px 0px 0px 240px;
+    display: inline-block;
+    
+}
+.box3{ background-color: wheat;
+    width: 380px;
+    height: 70px;
+    margin:30px 0px 0px 20px;
+    display: inline-block;
+}
+.liver{
+    position: absolute;
+    top: 2530px;
+    left: 250px;
+}
+.house{
+    position: absolute;
+    top: 2535px;
+    left: 655px;
+}
+
+.it{
+    position: absolute;
+    top: 2640px;
+    left: 250px;
+}
+
+.tharparkar{
+    position: absolute;
+    top: 2636px;
+    left: 650px;
+}
+#events{
+    margin: 0px 0px 0px 450px;
+    color: blue;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.moving{
+    background-color: skyblue;
+    color: black;
+    margin:0px 600px 0px 400px;
+    padding-top: 5px;
+}
+.footer{
+    background-color: navy;
+    color: white;
+    font-size: 20px;
+    padding-top: 60px;
+}
+  
+.title{
+    margin: 0px 0px 0px 590px;
+    
+}
+  
+.connect{
+    margin: 0px 0px 0px 1300px;
+
+    
+}
+.facebook{
+   color: gold;
+}
+.m{
+   color: greenyellow;
+}
+.font{
+    background-color: blueviolet; 
+    height: 40px;
+     padding-top: 25px;
+      padding-left: 90px;
+       color: yellow;
+}
+#red{
+    color: red;
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.btn {
+    background-color: whitesmoke;
+    border: none;
+    color: black;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+    color: white;
+  }
+
+
+  .box-x {
+    display: flex;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+}
+
+.row-x {
+    display: flex;
+}
+
+.shadow-x {
+    box-shadow: 0 2px 1px rgba(0, 0, 0, 0.09),
+        0 4px 2px rgba(0, 0, 0, 0.09),
+        0 8px 4px rgba(0, 0, 0, 0.09),
+        0 16px 8px rgba(0, 0, 0, 0.09),
+        0 32px 16px rgba(0, 0, 0, 0.09);
+}
+
+.container-box-x {
+    margin: 0px 100px;   
+}
+
+.facebook{
+  margin-right: 15px;
+}
+.whatsapp{
+    margin-left: 10px;
+  }
+
+  
